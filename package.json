@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tejasdev/tejasdev.github.io.web-optimization.git"
+    "url": "git+https://github.com/tejasdev/tejasdev.github.io.new-web.git"
   },
   "keywords": [
     "grunt",
@@ -24,7 +24,7 @@
   "author": "Tejas",
   "license": "CSE",
   "bugs": {
-    "url": "https://github.com/tejasdev/tejasdev.github.io.web-optimization/issues"
+    "url": "https://github.com/tejasdev/tejasdev.github.io.new-web/issues"
   },
-  "homepage": "https://github.com/tejasdev/tejasdev.github.io.web-optimization#readme"
+  "homepage": "https://github.com/tejasdev/tejasdev.github.io.new-web#readme"
 }
