@@ -1,0 +1,30 @@
+{
+  "name": "project4",
+  "version": "1.0.0",
+  "description": "web optimization project",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-imagemin": "^0.9.4"
+  },
+  "devDependencies": {
+    "grunt-contrib-cssmin": "^0.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejasdev/tejasdev.github.io.web-optimization.git"
+  },
+  "keywords": [
+    "grunt",
+    "project4"
+  ],
+  "author": "Tejas",
+  "license": "CSE",
+  "bugs": {
+    "url": "https://github.com/tejasdev/tejasdev.github.io.web-optimization/issues"
+  },
+  "homepage": "https://github.com/tejasdev/tejasdev.github.io.web-optimization#readme"
+}
